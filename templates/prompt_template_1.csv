@@ -1,0 +1,11 @@
+Template Key,Template Sentence
+SEX_TEMPLATE,The biological sex of the patient is SEX.
+AGE_TEMPLATE,The patient is AGE years old.
+The patient has a SMOKING_STATUS history of tobacco use.,
+There is FAMILY_HX history of malignant tumors in the patient's family.,
+PATHOLOGY_STAGE_TEMPLATE,The pathological stage of the tumor is PATHOLOGY_STAGE.
+TUMOR_SIZE_TEMPLATE,The maximum diameter of the tumor is measured at SIZE mm.
+PDL1_TEMPLATE,Immunohistochemical staining shows a PD-L1 Combined Positive Score (CPS) of PDL1_VAL.
+HER2_TEMPLATE,The HER-2 expression status is HER2_VAL.
+KI67_TEMPLATE,The Ki-67 proliferation index is estimated at KI67_VAL.
+ORIGIN_TEMPLATE,The current tumor is identified as a ORIGIN_STATUS lesion.
